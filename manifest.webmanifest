@@ -1,0 +1,10 @@
+{
+  "name": "节律｜规划与生活记录",
+  "short_name": "节律",
+  "description": "在电脑上规划，在手机上执行。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#f4f5ef",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
